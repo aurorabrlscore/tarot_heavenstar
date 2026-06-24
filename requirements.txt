@@ -1,0 +1,3 @@
+pyTelegramBotAPI
+PySocks
+python-dotenv
