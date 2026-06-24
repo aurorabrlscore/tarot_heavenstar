@@ -1,0 +1,27 @@
+# Секреты
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Railway / деплой
+.railway/
+
+# Редакторы и ОС
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+.DS_Store
+
+# Логи
+*.log
